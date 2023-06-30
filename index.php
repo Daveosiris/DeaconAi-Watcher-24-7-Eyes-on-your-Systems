@@ -34,7 +34,7 @@ $error = 0;
 		<meta name="generator" content="DeaconAiwatcher" />
 		<meta name="robots" content="noindex, nofollow">>
 		<meta name="theme-color" content="#000000">
-        <title>Project SECURITY &rsaquo; Admin Panel</title>
+        <title> DeaconAi Watcher&rsaquo; Admin Panel</title>
 
         <!-- CSS -->
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/all.css">
@@ -54,7 +54,7 @@ if ($settings['dark_mode'] == 1) {
 
 		<div class="card card-outline card-primary">
 		<div class="card-header text-center">
-			<h1><i class="fab fa-get-pocket"></i> Project <b>SECURITY</b></h1>
+			<h1><i class="fab fa-get-pocket"></i> DeaconAi  <b>Watcher</b></h1>
 		</div>
 		<div class="card">
            <div class="card-body text-white card-primary card-outline">
